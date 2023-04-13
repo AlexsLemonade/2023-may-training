@@ -3,7 +3,7 @@ title: Virtual Workshop Schedule
 nav_title: Schedule
 ---
 
-A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Data Lab Virtual Training Workshop appears below.s
+A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Data Lab Virtual Training Workshop appears below.
 
 
 *Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/edt).*
@@ -21,12 +21,11 @@ A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Da
 |             | [Exercise: Introduction to R](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/exercise_02-intro_to_R.Rmd)  | |
 |             | [Exercise: Introduction to the `tidyverse`, Part 1](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/exercise_03a-intro_to_tidyverse.Rmd)  | |
 |             | [Exercise: Introduction to the `tidyverse`, Part 2](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/exercise_03b-intro_to_tidyverse.Rmd)  | |
-
-|             | Exercise and [consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+|             | [Consultation session](workshop-structure.md#consultation-sessions) and exercises | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
 | 5:00  PM    | End             |
 | **Day 2**   | **2023-05-16**  <br> _**Introduction to Single-cell RNA-seq, Day 1**_ |
 | 12:00 PM    | Introduction <br> | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
-| 12:30 PM    | [Quantification and general QC of tag-based data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/01-scRNA_quant_qc.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
+| 12:30 PM    | [scRNA-seq quantification with Alevin](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/01-scRNA_quant_qc.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 1:30 PM     | [Importing data and filtering cells](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/02-filtering_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 2:30 PM     | [Normalization of expression data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/03-normalizing_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 3:30 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
@@ -41,7 +40,7 @@ A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Da
 |             | Exercise and [consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
 | 5:00  PM    | End             |
 | **Day 4**   | **2023-05-18**  <br> _**Introduction to Single-cell RNA-seq, Day 3**_ | |
-| 12:00 PM    | [Cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.Rmd) |  Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 12:00 PM    | [Cell type annotation](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.nb.html) |  Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 2:30 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 |             | Exercise and [consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use)|
 |             | [Exercise: scRNA-seq cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd) | |
