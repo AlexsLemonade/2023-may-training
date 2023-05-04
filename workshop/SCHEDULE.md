@@ -12,8 +12,7 @@ A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Da
 | Time        | Topic                             | Location |
 |-------------|--------------------------------------------|----------------|
 | **Day 1**   | **2023-05-15** <br> _**Introduction to R and the Tidyverse**_                 |
-| 12:00 PM    | Welcome, Introductions and Getting Started <br>  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
-|    | [Workshop introduction slides (PDF)](../slides/2023-05-15_workshop-intro.pdf) | |
+| 12:00 PM    | Welcome, Introductions and Getting Started <br> [Workshop introduction slides (PDF)](../slides/2023-05-15_workshop-intro.pdf)  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 1:00 PM     | [Introduction to base R](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html)  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 2:30 PM     | [Introduction to `ggplot2`](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 3:30 PM     | [Introduction to the `tidyverse`](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/03-intro_to_tidyverse.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
@@ -36,8 +35,7 @@ A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Da
 | 5:00  PM    | *Adjourn for the day*             |
 | | |         |
 | **Day 3**   | **2023-05-17**  <br> _**Introduction to Single-cell RNA-seq, Day 2**_ |
-| 12:00 PM    | [Dimension reduction & visualization](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html)| Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
-|             | [Dimension reduction and clustering slides (PDF)](../slides/2023-05-17_dimension_reduction_clustering.pdf)  | |
+| 12:00 PM    | [Dimension reduction & visualization](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html) <br> [Dimension reduction and clustering slides (PDF)](../slides/2023-05-17_dimension_reduction_clustering.pdf) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 1:30 PM     | [Clustering and marker identification](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/05-clustering_markers_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 3:00 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 |             | [Exercise: scRNA-seq clustering](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_02-scrna_clustering.Rmd) | |
@@ -45,8 +43,7 @@ A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Da
 | 5:00  PM    | *Adjourn for the day*             |
 | | |    |
 | **Day 4**   | **2023-05-18**  <br> _**Introduction to Single-cell RNA-seq, Day 3**_ | |
-| 12:00 PM    | [Cell type annotation](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
-|             |[Cell type annotation slides (PDF)](../slides/2023-05-18_cell_type_annotation.pdf) |  |
+| 12:00 PM    | [Cell type annotation](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/06-celltype_annotation.nb.html) <br> [Cell type annotation slides (PDF)](../slides/2023-05-18_cell_type_annotation.pdf) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 2:30 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 |             | Exercise and [consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use)|
 |             | [Exercise: scRNA-seq cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd) | |
