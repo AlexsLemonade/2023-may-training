@@ -3,7 +3,7 @@ title: Virtual Workshop Schedule
 nav_title: Schedule
 ---
 
-A preliminary schedule for the May 2023 "Introduction to Single-Cell RNA-Seq" Data Lab Virtual Training Workshop appears below.
+The planned schedule for the May 2023 Data Lab Virtual Training Workshop "Introduction to Single-Cell RNA-Seq" appears below.
 
 
 *Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/edt).*
